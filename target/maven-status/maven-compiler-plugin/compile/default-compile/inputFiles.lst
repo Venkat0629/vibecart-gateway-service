@@ -1,0 +1,8 @@
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\controller\APIGatewayController.java
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\config\SwaggerConfig.java
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\filter\JwtAuthFilter.java
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\model\Response.java
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\service\APIGatewayService.java
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\APIGateWayApplication.java
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\config\SecurityConfig.java
+C:\Users\vveera\IdeaProjects\vibecart-api-gateway\src\main\java\com\vibecart\gateway\model\AuthRequest.java
