@@ -6,9 +6,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-public class APIGateWayApplication {
+public class VibeCartApiGateWayApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(APIGateWayApplication.class, args);
+        SpringApplication.run(VibeCartApiGateWayApp.class, args);
     }
 }
